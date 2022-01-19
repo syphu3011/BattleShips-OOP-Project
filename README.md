@@ -5,4 +5,4 @@ a link has query database: "DatabaseBattleShips.sql".
 Project is written by 
 Nguyễn Văn Sỹ Phú; 
 Vòng Cỏng Mềnh; 
-Nguyễn Minh Thao
+Nguyễn Minh Thao. Project may have some bugs.
