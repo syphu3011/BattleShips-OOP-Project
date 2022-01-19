@@ -1,0 +1,69 @@
+
+CaptainBlue.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CaptainBlue
+  rotate: false
+  xy: 2, 1262
+  size: 630, 630
+  orig: 630, 630
+  offset: 0, 0
+  index: 7
+CaptainBlue
+  rotate: false
+  xy: 2, 632
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 0
+CaptainBlue
+  rotate: false
+  xy: 634, 1264
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 1
+CaptainBlue
+  rotate: false
+  xy: 2, 2
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 2
+CaptainBlue
+  rotate: false
+  xy: 1264, 1264
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 3
+CaptainBlue
+  rotate: false
+  xy: 632, 632
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 4
+CaptainBlue
+  rotate: false
+  xy: 632, 2
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 5
+CaptainBlue
+  rotate: false
+  xy: 1262, 634
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 6
+CaptainBlue
+  rotate: false
+  xy: 1262, 4
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: 8
