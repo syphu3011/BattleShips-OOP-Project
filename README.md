@@ -5,4 +5,4 @@ a link has query database: "DatabaseBattleShips.sql".
 Project is written by 
 Nguyễn Văn Sỹ Phú; 
 Vòng Cỏng Mềnh; 
-Nguyễn Minh Thao. Project may have some bugs. Please contact to email "syphu1995@gmail.com" if bugs are detected. but i was born in 2002 not 1995=)). Thank everyone.
+Nguyễn Minh Thao. Project may have some bugs. Please contact to email "syphu1995@gmail.com" if bugs are detected. Thank everyone.
